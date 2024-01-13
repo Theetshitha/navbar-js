@@ -1,0 +1,15 @@
+body{
+    margin-top: 200px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pg2div1{
+   padding: 30px;
+    background-color: white;
+    height: 250px;
+    width: 245px;
+    border-radius: 20px;
+}
